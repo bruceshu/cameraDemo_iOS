@@ -9,6 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+//
+//- (IBAction)onClickButtonOpenCamera:(id)sender;
+//- (IBAction)onClickButtonSwitchCamera:(id)sender;
 
 
 @end
